@@ -1,0 +1,26 @@
+1)Sequentail access/Random access
+2)Static allocation/Dynamic allocation
+3)Purpose of getting/putting numbers
+4)Usage of the below:
+
+Arrays:
+     Array will assign random access
+     Array will support dynamic allocation
+     we insert and read numbers based on index
+     We use to fixed set of records and used for collection of data
+
+Linkedlist:
+     Sequential access
+     dynamic allocation
+     It will be based on the next pointer
+     We use it when the size is un-known
+     
+Stack:
+    Sequential access--> we can access only TOP element and the remaining elements will be hidden
+    Static allocation LIFO(Last in first out)
+    Undo operation in mot of the OS
+    
+ Queue:
+      Sequentail access
+      we use FIFO logic here
+ 
