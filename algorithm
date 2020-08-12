@@ -1,0 +1,6 @@
+Function to add element in array
+Copy original array into new array
+Add element to the new array
+Original array with size 
+New element to be added to array  add_element
+Element to be removed from the array remove_element
