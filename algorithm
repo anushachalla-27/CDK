@@ -1,1 +1,8 @@
+Creating a newNode with given value(A)
+check whether the list is empty(Head== Null)
+If it is eampty then set new node-->neXt ==NUll and Head==New node
+If it is not eampty the, define a node pointer 'B' and initialize with head
+keep moving it to the 'B' to its next node until it reaches to the node after which we want to insert the new node(temp-->data is equal to location)
+check whetehr the 'B' is reached to last node or not. if reached then display "given node is not found otherwise move the temp to next node
+set NewNode-->next-temp-->next and temp-->next-newNode.
 
