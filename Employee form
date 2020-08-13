@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+Employee Number: <input type="text" min="10" max="20"><br/>
+Employee Number: <input type="text" min="10" max="20"><br/>
+BirthDate: <input type="date"><br/>
+Email: <input type="email"><br/>
+City Preference: <input type="checkbox" id="city" name="city1" value="hyderabad">
+                 <label for="city1"> Hyderabad</label><br>
+                 <input type="checkbox" id="city2" name="city2" value="banglore">
+                 <label for="city2"> Banglore</label><br>
+                 <input type="checkbox" id="city3" name="city3" value="pune">
+                 <label for="city3"> Pune</label><br><br>
+  Martial status:<input type="radio" id="Status" name="married" value="status">
+                 <label for="male">Married</label><br>
+                 <input type="radio" id="status" name="single" value="status">
+                 <label for="female">Single</label><br>
+</body>
+</html>
