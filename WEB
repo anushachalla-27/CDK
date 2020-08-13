@@ -1,3 +1,4 @@
+Lab:1
 <!DOCTYPE html>
 <html>
 <head>
@@ -8,5 +9,22 @@
 <h1>Hello World</h1>
 <p>My name is anusha</p>
 
+</body>
+</html>
+
+
+Lab:2
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Title</title>
+</head>
+<body>
+<h1><I><p style="color:blue;">****Hello World - Heartly Welcome****</p></I></h1>
+<h4>You are here to know more about CDK</h4>
+<a href="https://www.cdkglobal.com/us"><h3>Welcome to CDK Portal</h3></a>
+<br></br>
+<img src="download.jpg" width="700" height="300">
 </body>
 </html>
