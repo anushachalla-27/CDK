@@ -18,7 +18,7 @@ Day 2:
 
 Pointers:pointers are variables which store address of another variable.
 
-Function Definition: A function definition tells us about dunction name,return type,its access specifier,arguments it take.
+Function Definition: A function definition tells us about function name,return type,its access specifier,arguments it take.
 
 call by value: It is an approach of calling a function in which we send the copy of variables to the function. so changes made in function are not reflected in main.
 
