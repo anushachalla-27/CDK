@@ -22,9 +22,11 @@ Lab:2
 </head>
 <body>
 <h1><I><p style="color:blue;">****Hello World - Heartly Welcome****</p></I></h1>
+<img src="download.jpeg" width="700" height="300">	
 <h4>You are here to know more about CDK</h4>
+
 <a href="https://www.cdkglobal.com/us"><h3>Welcome to CDK Portal</h3></a>
 <br></br>
-<img src="download.jpg" width="700" height="300">
+
 </body>
 </html>
