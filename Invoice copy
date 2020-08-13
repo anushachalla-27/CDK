@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h2>Invoice</h2>
+<table>
+<thead>
+<th>To:</th>
+<th> Your company name</th>
+</thead>
+<tr>
+<td>Client name</td>
+<td>company address</td>
+</tr>
+<tr>
+<td>Company</td>
+<td>company address line 2</td>
+</tr>
+<tr>
+<td>company address line 2</td>
+<td>company address line 3</td>
+</tr>
+<tr>
+<td>company address line 3</td>
+<td>post code</td>
+</tr>
+<tr>
+<td>post code</td>
+<td>country</td>
+</tr>
+<tr>
+<td>Country</td>
+<td><B>Company registration number</B></td>
+</tr>
+</table>
+<h3>Invoice details</h3>
+<table border='1' >
+<thead>
+<tr>
+<td width="150">invoice number</td>
+<td width="150">0</td>
+<td width="150">Tax date</td>
+<td width="150">1/1/2011</td>
+</tr>
+<tr>
+<td width="150">PO number</td>
+<td width="150">0</td>
+<td width="150">Terms</td>
+<td width="150">28 days</td>
+</tr>
+<tr>
+<td width="150">Reference</td>
+<td width="150">0</td>
+<td width="150">Payment due by</td>
+<td width="150">29/1/2011</td>
+</tr>
+</thead>
+</body>
+</html>
