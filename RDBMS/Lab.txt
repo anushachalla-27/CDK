@@ -14,3 +14,19 @@ Table Structure
 	insert into dept values (1,'AAA',111.11,'IT');
 	insert into dept values (2,'BBB',222.22,'IT');
   
+Some syntax's
+
+select  :( https://www.oracletutorial.com/oracle-basics/oracle-like/)
+Create table with given rows
+1. show all employee details where
+	name starts with "R"
+	name ends with "li"
+	name has "sh" 
+	salary - <,>,<=,>=, !=, between
+	deptno is IT
+	deptno is IT or FN (IN)
+	
+group by
+	select dept from emp group by dept
+	select dept, count(*) from emp group by dept;
+	select dept,min(salary), max(salary) from emp group by dept;
