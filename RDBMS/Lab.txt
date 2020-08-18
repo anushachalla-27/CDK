@@ -1,0 +1,16 @@
+Table Structure
+	Emp -> empno, ename, salary, dept (IT,FI,HR)
+	-> unique identification of row 
+		-> rowid
+		-> primary key
+		
+	create table dept (
+		empno number(3) primary key,  
+		ename varchar(20),
+		salary number(7),
+		dept char(2)
+		);
+		
+	insert into dept values (1,'AAA',111.11,'IT');
+	insert into dept values (2,'BBB',222.22,'IT');
+  
