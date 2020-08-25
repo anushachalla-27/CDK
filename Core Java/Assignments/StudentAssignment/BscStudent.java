@@ -1,4 +1,3 @@
-package Day2;
 
 public class BscStudent extends Student {
 
